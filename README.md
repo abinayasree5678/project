@@ -1,1 +1,1 @@
-salary prediction# project
+# project- salary prediction using machine learning
